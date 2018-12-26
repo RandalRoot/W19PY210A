@@ -1,12 +1,11 @@
-# Class Repository Template
+Class Repository
+Class notes are published here:
 
-**WARNING** This is a template -- it is not an actual class repo. Students should find the proper repo for their class, and make a fork of that.
+https://canvas.uw.edu/courses/1247283/pages/classnotes
 
-This is a repo that serves as a template for a repository for a particular
-instance of a class for the [UWPCE Python Certificate](https://www.pce.uw.edu/certificates/python-programming).
+This repository is used for submitting and reviewing student's work for the Winter 2019 classrooom section of University of Washington Continuing and Professional Education Python certificate program.
 
-Make a copy of this repo for each class, so that it can be used by the class to
-share information and for students to submit their work.
+https://www.pce.uw.edu/certificates/python-programming
 
 ## Structure of the Repo
 
